@@ -23,7 +23,7 @@ slides:
 summary: In this study, we used eye tracking to investigate how people gather visual information from violence
 tags:
 - Source Themes
-title: Looking away from the face of violence - Diminished attention to faces in violent social interactions
+title: (Preprint) Looking away from the face of violence - Diminished attention to faces in violent social interactions
 url_code: "https://osf.io/sfyj2/"
 url_dataset: ""
 url_pdf: https://psyarxiv.com/3y4w9
