@@ -26,7 +26,7 @@ organizations:
 - name: Institute for Mind and Biology
 - name: The University of Chicago
   url: ""
-role: PhD Candidate at UChicago
+role: PhD Candidate
 social:
 - icon: envelope
   icon_pack: fas

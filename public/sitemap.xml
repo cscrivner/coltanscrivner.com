@@ -3,38 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/admin/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/looking-away-from-violence/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,6 +37,12 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/dario-maestripieri/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -72,11 +52,6 @@
     <loc>/authors/kyoung-whan-choe/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/looking-away-from-violence/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -129,27 +104,6 @@
     <loc>/tags/emotion/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -260,58 +214,13 @@
   </url>
   
   <url>
-    <loc>/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/coltan-scrivner/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
   </url>
   
 </urlset>
