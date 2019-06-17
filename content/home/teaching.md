@@ -51,7 +51,7 @@ subtitle = ""
   description = "Instructor - 9 sections"
 
 [[feature]]
-  icon = "flask"
+  icon = "microscope"
   icon_pack = "fas"
   name = "Embryology (UCO, 2015)"
   description = "TA for [Nikki Seagraves](https://www3.uco.edu/centraldirectory/profiles/853540)"
