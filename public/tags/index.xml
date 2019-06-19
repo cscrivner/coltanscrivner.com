@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Coltan Scrivner</title>
-    <link>/coltanscrivner.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Coltan Scrivner</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/coltanscrivner.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Source Themes</title>
-      <link>/coltanscrivner.com/tags/source-themes/</link>
+      <link>/tags/source-themes/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/coltanscrivner.com/tags/source-themes/</guid>
+      <guid>/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emotion</title>
-      <link>/coltanscrivner.com/tags/emotion/</link>
+      <link>/tags/emotion/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/coltanscrivner.com/tags/emotion/</guid>
+      <guid>/tags/emotion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>social cognition</title>
-      <link>/coltanscrivner.com/tags/social-cognition/</link>
+      <link>/tags/social-cognition/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/coltanscrivner.com/tags/social-cognition/</guid>
+      <guid>/tags/social-cognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>violence</title>
-      <link>/coltanscrivner.com/tags/violence/</link>
+      <link>/tags/violence/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/coltanscrivner.com/tags/violence/</guid>
+      <guid>/tags/violence/</guid>
       <description></description>
     </item>
     
