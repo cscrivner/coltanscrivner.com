@@ -36,7 +36,7 @@ social:
   link: https://twitter.com/Scrivmaster
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=KW0qAtQAAAAJ&hl=en
 superuser: true
 user_groups:
 - Researchers
