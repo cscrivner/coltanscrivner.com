@@ -2,6 +2,7 @@
 authors:
 - admin
 - Kyoung whan Choe
+- Joe Henry
 - Muxuan Lyu
 - Dario Maestripieri
 - Marc G. Berman
