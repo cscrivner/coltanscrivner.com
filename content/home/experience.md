@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   location = "Aarhus University, Denmark"
   date_start = "2017-10-01"
   date_end = "2017-11-01"
-  description = """Designed and ran a field experiment at a haunted house attraction."""
+  description = """Designed and conducted a field experiment at a haunted house attraction."""
 
   
 [[experience]]
