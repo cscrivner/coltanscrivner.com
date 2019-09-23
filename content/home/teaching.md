@@ -15,12 +15,6 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 
-  
-[[feature]]
-  icon = "brain"
-  icon_pack = "fas"
-  name = "Mind III - The Mind in Context (UChicago, 2020)"
-  description = "Lecturer"
 
 [[feature]]
   icon = "brain"
@@ -31,7 +25,7 @@ subtitle = ""
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "Mind I - Historical & Philosophical Foundations of the Mind (UChicago, 2019)"
+  name = "Mind I - Historical & Philosophical Foundations of the Mind (UChicago, 2019, x2)"
   description = "Lecturer"
 
 
