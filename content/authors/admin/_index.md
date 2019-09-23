@@ -10,7 +10,7 @@ education:
   - course: MS in Forensic Science - Biology/Chemistry (with honors)
     institution: The University of Central Oklahoma
     year: 2016
-  - course: BSc in Anthropology (with honors)
+  - course: BA in Anthropology (with honors)
     institution:
     year: 2014
 email: "cscrivner@uchicago.edu"
@@ -18,7 +18,7 @@ interests:
 - Social Cognition
 - Evolution of Emotions
 - Social Perception
-- Cognition of Violence
+- Cognitive Science of Violence
 name: Coltan Scrivner
 organizations:
 - name: Department of Comparative Human Development
@@ -43,5 +43,5 @@ user_groups:
 - Visitors
 ---
 
-I'm a PhD student in the Department of Comparative Human Development at The University of Chicago and a Fellow at the Institute for Mind and Biology in the Behavioral Biology Lab. Broadly, I'm interested in how humans interact with and perceive one another. What are the social, cognitive, and biological factors that influence social behavior? Most of my current research centers around our perceptions of potentially dangerous (socially or physically) individuals. From this perspective, I've been investigating how people perceive others who they hate, who they feel shamed by, and who are engaged in violent behavior. 
+I'm a PhD student in the Department of Comparative Human Development at The University of Chicago and a Fellow at the Institute for Mind and Biology in the Behavioral Biology Lab. Broadly, I'm interested in how humans interact with and perceive one another. What are the social, cognitive, and biological factors that influence social behavior? Most of my current research centers around our perceptions of potentially dangerous (either socially or physically) individuals. From this perspective, I've been investigating how people perceive others who they hate, who they feel shamed by, and who are engaged in violent behavior. 
  
