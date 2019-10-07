@@ -14,6 +14,7 @@ image:
 summary: This research project is an investigation into the reasons why violence so often captivates us
 tags:
 - violence
+- social cognition
 title: The Allure of Violence
 url_code: ""
 url_pdf: ""
@@ -46,7 +47,7 @@ To kick off this project, we hosted a conference in which we invited a wide rang
 <br/><br/>
 
 ## **Preprint**
-You can find our first preprint from this project [on PsyArXiv](https://psyarxiv.com/3y4w9)
+You can find our preprint for the first paper from this project [on PsyArXiv](https://psyarxiv.com/3y4w9)
 
 [![](preprint.jpg)](https://psyarxiv.com/3y4w9)
 

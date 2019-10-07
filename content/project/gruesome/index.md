@@ -1,8 +1,8 @@
 ---
 authors:
 - admin
-- Daniel Fessler
 - Colin Holbrook
+- Daniel Fessler
 - Dario Maestripieri
 date: "2019-01-01T00:00:00Z"
 external_link:
@@ -12,6 +12,8 @@ image:
 summary: What is the point of gruesome behavior?
 tags:
 - social cognition
+- formidability
+- violence
 title: Gruesomeness and Perceived Formidability 
 url_code: ""
 url_pdf: ""
@@ -20,10 +22,20 @@ url_video: ""
 external_link: ""
 ---
 
-Executions throughout history have taken many forms. For most of this time, state executions were grisly, often public, events. In times of war, placing an enemy's severed head on a spike can serve as a powerful warning against potential invaders. Even in modern times, extremist groups will capture gruesome executions on video for the sole purpose of distribution. Why is this the case? While deterrance is likely one reason for gruesomeness, it's not clear why this works better as a deterrant than other methods, nor is it clear that deterrance is the only reason for gruesome actions. In this project, we are exploring the possibility that gruesome actions increase the viewier's cognitive representation of the perpetrator's formidability. In other words, perhaps committing a gruesome action increases how formidable you are in the minds of others.
+Impaled. Dismembered. Beheaded. The archeological, historical, and ethnographic records are replete with evidence not only of violence, but of violence that is excessive and overtly grisly. Today, internet searches readily return photos and videos of the acts of terrorist organizations, crime syndicates, and repressive regimes, all of whom not only kill their victims, but conspicuously damage them in a gruesome fashion. These actions appear to be intended to intimidate opponents. In this project we explore 1) the communicative facet of grisly acts, and 2) the thesis that the formidability of a potential antagonist is cognitively represented using the dimensions of bodily size and strength. We examine how observers impute dispositional and motivational attributes on the basis of gruesome acts and demonstrate that representations of relative formidability translate into expectations regarding the outcomes of agonistic conflicts.
 
-- This project is in collaboration with [Daniel Fessler](http://www.danielmtfessler.com) and [Colin Holbrook](http://cholbrook01.bol.ucla.edu)
+<br/><br/>
 
+This project is in collaboration with [Daniel Fessler](http://www.danielmtfessler.com) and [Colin Holbrook](http://cholbrook01.bol.ucla.edu)
+
+
+<br/><br/>
+<br/><br/>
+
+## **Preprint**
+You can find our preprint for the first paper from this project [on PsyArXiv](https://psyarxiv.com/23bqx/)
+
+[![](preprint.jpg)](https://psyarxiv.com/23bqx/)
 
 
 

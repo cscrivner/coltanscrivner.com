@@ -40,9 +40,15 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "quote-left"
+  icon = "user-friends"
   icon_pack = "fas"
-  name = "Qualitative Coding"
+  name = "Behavioral Analysis"
+  description = ""
+
+[[feature]]
+  icon = "comments"
+  icon_pack = "fas"
+  name = "Interviewing"
   description = ""
 
 +++
