@@ -4,7 +4,7 @@ authors:
 bio: I research the evolution of social cognition and emotions
 education:
   courses:
-  - course: PhD in Comparative Human Development - Behavioral Biology concentration
+  - course: PhD in Comparative Human Development - Behavioral Biology
     institution: The University of Chicago
     year: 2021 (expected)
   - course: MS in Forensic Science - Biology/Chemistry with honors
