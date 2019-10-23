@@ -11,7 +11,7 @@ external_link: "https://neubauercollegium.uchicago.edu/faculty/understanding_the
 image:
   caption:
   focal_point: Smart
-summary: This research project is an investigation into the reasons why violence so often captivates us
+summary: Why are we captivated by violence?
 tags:
 - violence
 - social cognition
