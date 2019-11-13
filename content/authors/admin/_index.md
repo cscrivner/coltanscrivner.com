@@ -1,7 +1,7 @@
 ---
 authors:
 - Coltan Scrivner
-bio: I research the evolution of social cognition and emotions
+bio: I perform research on the evolution of social cognition and morbid curiosity
 education:
   courses:
   - course: PhD in Comparative Human Development - Behavioral Biology
