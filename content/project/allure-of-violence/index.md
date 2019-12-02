@@ -47,8 +47,8 @@ To kick off this project, we hosted a conference in which we invited a wide rang
 <br/><br/>
 
 ## **Preprint**
-You can find our preprint for the first paper from this project [on PsyArXiv](https://psyarxiv.com/3y4w9)
+You can find the [full-text here](https://www.nature.com/articles/s41598-019-54327-3)
 
-[![](preprint.jpg)](https://psyarxiv.com/3y4w9)
+[![](preprint.jpg)](https://www.nature.com/articles/s41598-019-54327-3)
 
 
