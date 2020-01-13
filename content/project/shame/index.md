@@ -10,10 +10,10 @@ external_link:
 image:
   caption: Scenario from our pilot project
   focal_point: Smart
-summary: What are the functions of shame?
+summary: What are the functions of shame and embarrassment?
 tags:
 - emotion
-title: Mechanisms and Evolutionary Function of Shame 
+title: Mechanisms and Evolutionary Function of Shame and Embarrassment
 url_code: ""
 url_pdf: "https://osf.io/395g2/"
 url_slides: ""
@@ -21,7 +21,7 @@ url_video: ""
 external_link: ""
 ---
 
-Evidence suggests that shame is a neurocognitive adaptation that helps counter social devaluation. If this is true, then shame should be elicited when someone thinks you've done something wrong, even when no actual wrongdoing has occurd. In this project we are evaluating the role of the (mis)informed audience in eliciting shame. We are also using [eye tracking](https://pupil-labs.com) to investigate social information gathering processes that are triggered when someone is being devalued or shamed. The next steps for this project will involve analyzing hormonal mediator of shame behavior. 
+Evidence suggests that shame is a neurocognitive adaptation that helps counter social devaluation. If this is true, then shame should be elicited when someone thinks you've done something wrong, even when no actual wrongdoing has occurd. In this project we are evaluating the role of the (mis)informed audience in eliciting shame. We are also using [eye tracking](https://pupil-labs.com) to investigate social information gathering processes that are triggered when someone is being devalued or shamed. We are also interested in embarrassment and how this differs from shame. One question we are currently working on is understanding the behavioral cues of embarrassment. The next steps for this project involve analyzing the possible mediatinoal role of testosterone and cortisol in shame behavior and the personality correlates of proneness to embarrassment.
 
 - This project is in collaboration with [Daniel Sznycer](http://danielsznycer.org)
 
