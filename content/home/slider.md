@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Why do we love creepy images?"
-  content = "I was recently interviewed for this story in Wired"
+  content = "My interview with Wired Magazine"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -36,7 +36,7 @@ height = ""
 
 [[item]]
   title = "Interdisciplinary conference on violence"
-  content = "Chicago Policy Review covers our conference"
+  content = "Chicago Policy Review covers the Allure of Violence Conference"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
