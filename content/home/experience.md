@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   company_url = "https://imb.uchicago.edu"
   location = "The University of Chicago"
   date_start = "2017-07-01"
-  date_end = ""
+  date_end = "2021-06-15"
   description = """ Behavioral Biology Laboratory """
 
 
@@ -57,6 +57,16 @@ date_format = "Jan 2006"
   date_start = "2017-10-01"
   date_end = "2017-11-01"
   description = """Designed and conducted a field experiment at a haunted house attraction."""
+  
+
+[[experience]]
+  title = "Visiting Researcher"
+  company = "Interacting Minds Centre"
+  company_url = "http://interactingminds.au.dk"
+  location = "Aarhus University, Denmark"
+  date_start = "2020-10-01"
+  date_end = "2020-11-01"
+  description = """Designed and conducted a field experiment at a haunted house attraction."""
 
   
 [[experience]]
@@ -65,7 +75,18 @@ date_format = "Jan 2006"
   company_url = "https://humdev.uchicago.edu"
   location = "The University of Chicago"
   date_start = "2016-10-01"
-  date_end = ""
+  date_end = "2021-06-15"
   description = """Behavioral biology concentration"""
+  
+
+
+[[experience]]
+  title = "UX Intern"
+  company = "Facebook"
+  company_url = "http://interactingminds.au.dk"
+  location = "San Francisco, California"
+  date_start = "2020-06-01"
+  date_end = "2020-08-21"
+  description = """User Interface Intern at Facebook."""
 
 +++

@@ -15,6 +15,12 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 
+[[feature]]
+  icon = "handshake"
+  icon_pack = "fas"
+  name = "Habits of a Free Mind: Psychology for Democracy (UChicago, 2020)"
+  description = "Teaching Assistant for [Pamela Paresky](https://www.psychologytoday.com/us/experts/pamela-b-paresky-phd)"
+  
 
 [[feature]]
   icon = "brain"
