@@ -13,6 +13,7 @@ summary: Why do we play with fear?
 tags:
 - social cognition
 title: Horror, Cognition, and Play 
+weight: 4
 url_code: ""
 url_pdf: ""
 url_slides: ""

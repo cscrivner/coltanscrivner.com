@@ -14,6 +14,7 @@ summary: What are the functions of shame and embarrassment?
 tags:
 - emotion
 title: Mechanisms and Evolutionary Function of Shame and Embarrassment
+weight: 5
 url_code: ""
 url_pdf: "https://osf.io/395g2/"
 url_slides: ""

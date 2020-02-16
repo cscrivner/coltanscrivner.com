@@ -16,6 +16,7 @@ tags:
 - violence
 - social cognition
 title: The Allure of Violence
+weight: 2
 url_code: ""
 url_pdf: ""
 url_slides: ""

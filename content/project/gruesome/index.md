@@ -15,6 +15,7 @@ tags:
 - formidability
 - violence
 title: Gruesomeness and Perceived Formidability 
+weight: 3
 url_code: ""
 url_pdf: ""
 url_slides: ""
