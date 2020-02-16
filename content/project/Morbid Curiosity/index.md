@@ -12,6 +12,7 @@ tags:
 - death
 - violence
 title: The Psychology of Morbid Curiosity
+weight: 1
 url_code: ""
 url_pdf: ""
 url_slides: ""
