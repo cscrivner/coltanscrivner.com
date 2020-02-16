@@ -78,6 +78,6 @@ date_format = "Jan 2006"
   location = "San Francisco, California"
   date_start = "2020-06-01"
   date_end = "2020-08-21"
-  description = """User Interface Intern at Facebook."""
+  description = """User Experience Graduate Intern at Facebook."""
 
 +++
