@@ -17,7 +17,7 @@ tags:
 title: Gruesomeness and Perceived Formidability 
 weight: 3
 url_code: ""
-url_pdf: ""
+url_pdf: "https://psyarxiv.com/23bqx/"
 url_slides: ""
 url_video: ""
 external_link: ""
