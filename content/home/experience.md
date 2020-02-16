@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Academic Positions"
+title = "Academic and Professional Positions"
 subtitle = ""
 
 # Date format for experience
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   company_url = "https://imb.uchicago.edu"
   location = "The University of Chicago"
   date_start = "2017-07-01"
-  date_end = "2021-06-15"
+  date_end = ""
   description = """ Behavioral Biology Laboratory """
 
 
@@ -75,7 +75,7 @@ date_format = "Jan 2006"
   company_url = "https://humdev.uchicago.edu"
   location = "The University of Chicago"
   date_start = "2016-10-01"
-  date_end = "2021-06-15"
+  date_end = ""
   description = """Behavioral biology concentration"""
   
 
