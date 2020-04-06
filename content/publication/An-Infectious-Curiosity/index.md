@@ -4,7 +4,7 @@ authors:
 - admin
 date: "2020-04-06T00:00:00Z"
 doi:
-featured: false
+featured: true
 image:
   caption:
   focal_point: "smart"
