@@ -16,7 +16,7 @@ publication_types:
 - "2"
 publishDate: "2020"
 slides:
-summary: In this study, we used eye tracking to investigate how people gather visual information from scenes of violence
+summary: Why did horror movies and pandemic films surge in popularity during the COVID19 outbreak? It may have to do with morbid curiostity.
 tags:
 - Source Themes
 title: Violence reduces attention to faces and draws attention to points of contact
