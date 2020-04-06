@@ -19,7 +19,7 @@ slides:
 summary: Why did horror movies and pandemic films surge in popularity during the COVID19 outbreak? It may have to do with morbid curiostity.
 tags:
 - Source Themes
-title: An Infectious Curiosty: Morbid Curiosity and Media Preferences During a Pandemic
+title: ""An Infectious Curiosty: Morbid Curiosity and Media Preferences During a Pandemic""
 url_code: "https://osf.io/sfyj2/"
 url_dataset: "https://osf.io/sfyj2/"
 url_pdf: "https://www.nature.com/articles/s41598-019-54327-3"
