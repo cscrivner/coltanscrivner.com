@@ -26,6 +26,9 @@ Are you curious about what Gladiatorial fights in the Coliseum of Ancient Rome w
 
 Though there is no formal definition, morbid curiosity is typically described as an interest in or curiosity about unpleasant things, especially death. The commercial success of horror films, popularity of true crime television shows, and prevalence of violence in the news implies that the average person possesses some degree of morbid curiosity. Likewise, the presence of death-related phenomena in literature and art and the historical attraction of public executions and gladiatorial fights suggests that morbid curiosity is an old and cross-cultural phenomenon. Despite the ubiquity of morbid material in entertainment, research on morbid curiosity is largely absent from the psychological literature. Moreover, although there is evidence that morbid curiosity is a well-understood lay phenomenon and that there are individual differences in morbid curiosity, no well-validated scale exists. In this research project, I am investigating the psychological nature of morbid curiosity by creating the Morbid Curiosity Scale (MCS), evaluating its ability to predict behavioral outcomes, and assessing its relationship with personality. The MCS and morbid curiosity behavioral tasks will be assessed in online adult samples, university samples, and attendees at events related to morbid curiosity, such as the [Oddities and Curiosities Expo](https://odditiesandcuriositiesexpo.com).
 
+<br/><br/>
+<br/><br/>
+
 
 Relevant articles:
 
@@ -35,6 +38,8 @@ Relevant articles:
 
 
 
+<br/><br/>
+<br/><br/>
 
 Below is a cabinet of curiosities I curated to test some ideas about morbid curiosity. While wearing [Pupil Invisible mobile eye tracking glasses](https://pupil-labs.com/products/invisible/), participants inspect the cabinet and choose 5 items to manually inspect and 5 items to learn more about. In addition to serving as an external validation of the Morbid Curiosity Scale, the cabient of curiosities will illuminate the relationship between perceptual and epistemic curiosity.
 ![](cabinet.jpg)
