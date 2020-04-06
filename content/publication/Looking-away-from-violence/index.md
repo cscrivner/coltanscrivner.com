@@ -27,11 +27,11 @@ tags:
 title: Violence reduces attention to faces and draws attention to points of contact
 url_code: "https://osf.io/sfyj2/"
 url_dataset: "https://osf.io/sfyj2/"
-url_pdf: "https://www.nature.com/articles/s41598-019-54327-3"
+url_pdf: "https://www.nature.com/articles/s41598-019-54327-3.pdf"
 url_poster: ""
 url_project: ""
 url_slides: "https://osf.io/s9ez8/"
-url_source: ""
+url_source: "https://www.nature.com/articles/s41598-019-54327-3"
 url_video: ""
 ---
 
