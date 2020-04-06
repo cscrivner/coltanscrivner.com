@@ -10,11 +10,11 @@ image:
   focal_point: "smart"
   preview_only: false
 projects: []
-publication: "Scientific Reports"
+publication: "Evolutionary Studies in Imaginative Culture"
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019"
+publishDate: "2020"
 slides:
 summary: In this study, we used eye tracking to investigate how people gather visual information from scenes of violence
 tags:
