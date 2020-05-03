@@ -19,8 +19,8 @@ height = ""
 
 
 [[item]]
-  title = "Top 10 list for pandemic movies"
-  content = "My interview with Ars Technica about the pandemic"
+  title = "My top 10 list for pandemic movies"
+  content = "Interview with Ars Technica about morbid curiosity and the pandemic"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
