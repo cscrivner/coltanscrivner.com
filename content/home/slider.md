@@ -15,6 +15,30 @@ height = ""
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+
+
+
+[[item]]
+  title = "Top 10 list for pandemic movies"
+  content = "My interview with Ars Technica about the pandemic"
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "headers/quillette-story.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Click here to read the story"
+  cta_url = "https://arstechnica.com/science/2020/05/indulge-your-morbid-curiosity-about-the-pandemic-with-these-ten-films/?fbclid=IwAR3yJG5x0ubaG11QfAcX9Yc0IgYbCLhiDA33U3odZE77C22l1KeucejNcGw"
+  cta_icon_pack = "fas"
+  cta_icon = ""
+  
+  
+
 [[item]]
   title = "Why do we love creepy images?"
   content = "My interview with Wired Magazine"
@@ -54,25 +78,5 @@ height = ""
   cta_icon = ""
 
 
-
-
-[[item]]
-  title = "Free speech and diversity & Inclusion"
-  content = "Are they in contention?"
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/quillette-story.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Click here to read the story"
-  cta_url = "https://quillette.com/2018/03/15/diversity-inclusion-vs-free-speech-campus/"
-  cta_icon_pack = "fas"
-  cta_icon = ""
 
 +++
