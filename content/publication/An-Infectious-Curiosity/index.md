@@ -22,7 +22,7 @@ tags:
 title: An Infectious Curiosty - Morbid Curiosity and Media Preferences During a Pandemic
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://psyarxiv.com/7sfty/"
 url_poster: ""
 url_project: ""
 url_slides: ""
