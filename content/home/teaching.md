@@ -19,7 +19,7 @@ subtitle = ""
   icon = "handshake"
   icon_pack = "fas"
   name = "Habits of a Free Mind: Psychology for Democracy (UChicago, 2020)"
-  description = "Teaching Assistant for [Pamela Paresky](https://www.psychologytoday.com/us/experts/pamela-b-paresky-phd)"
+  description = "TA for [Pamela Paresky](https://www.psychologytoday.com/us/experts/pamela-b-paresky-phd)"
   
 
 [[feature]]
