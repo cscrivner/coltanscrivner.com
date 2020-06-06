@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Most Recent Publication"
+title = "Most Recent Publications"
 subtitle = ""
 
 [content]
@@ -18,7 +18,7 @@ subtitle = ""
   count = 1
   
   # Choose how many pages you would like to offset by
-  offset = 0
+  offset = 3
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
