@@ -22,7 +22,7 @@ slides:
 summary: Why are people sometimes gruesomely violent? It may have to do with how it affects their perceived formidability
 tags:
 - Source Themes
-title: Gruesomeness conveys formidability
+title: Gruesomeness conveys formidability - Perpetrators of gratuitously grisly acts are conceptualized as larger, stronger, and more likely to win
 url_code: ""
 url_dataset: ""
 url_pdf: "https://psyarxiv.com/23bqx/"

@@ -67,7 +67,7 @@ date_format = "Jan 2006"
   location = "The University of Chicago"
   date_start = "2016-10-01"
   date_end = ""
-  description = """Behavioral biology concentration"""
+  description = """Behavioral Biology concentration"""
   
 
 
@@ -76,8 +76,8 @@ date_format = "Jan 2006"
   company = "Facebook"
   company_url = "http://interactingminds.au.dk"
   location = "San Francisco, California"
-  date_start = "2020-06-01"
-  date_end = "2020-08-21"
+  date_start = "2021-06-01"
+  date_end = "2021-08-21"
   description = """User Experience Graduate Intern at Facebook."""
 
 +++
