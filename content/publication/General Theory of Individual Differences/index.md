@@ -18,7 +18,7 @@ publication_types:
 - "2"
 publishDate: "2020"
 slides:
-summary: Why did horror movies and pandemic films surge in popularity during the COVID19 outbreak? It may have to do with morbid curiostity.
+summary: Can evolutionary psychology offer a framework for a general theory of individual differences?
 tags:
 - Source Themes
 title: Toward a General Theory of Human Individual Differences - Can Evolutionary Psychology Meet the Challenge?
