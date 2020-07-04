@@ -20,7 +20,7 @@ height = ""
 
 [[item]]
   title = "Horror fans are more psychologically resilient to the pandemic"
-  content = "Interview with The Guardian"
+  content = "Interview with New Scientist"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -33,7 +33,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Click here to read the story"
-  cta_url = "https://www.theguardian.com/science/2020/jul/01/end-of-the-world-as-we-know-it-fans-of-apocalyptic-films"
+  cta_url = "https://www.newscientist.com/article/2247744-horror-movie-fans-are-better-at-coping-with-the-coronavirus-pandemic/"
   cta_icon_pack = "fas"
   cta_icon = ""
   
