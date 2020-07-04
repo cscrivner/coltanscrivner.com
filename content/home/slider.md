@@ -19,7 +19,7 @@ height = ""
 
 
 [[item]]
-  title = "Horror fans are more psychologically resilient to the pandemic"
+  title = "Horror fans are more psychologically resilient during the pandemic"
   content = "Interview with New Scientist"
   align = "center"  # Choose `center`, `left`, or `right`.
 
