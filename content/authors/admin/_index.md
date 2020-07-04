@@ -1,7 +1,7 @@
 ---
 authors:
 - Coltan Scrivner
-bio: I investigate the evolution of social cognition and morbid curiosity
+bio: I investigate morbid curiosity and the evolution of social cognition
 education:
   courses:
   - course: PhD in Comparative Human Development - Behavioral Biology
@@ -43,5 +43,5 @@ user_groups:
 - Visitors
 ---
 
-I'm currently a PhD student in the Department of Comparative Human Development at The University of Chicago and a Fellow at the Institute for Mind and Biology in the Behavioral Biology Lab. Broadly, I'm interested in how humans interact with and perceive one another. What are the social, cognitive, and biological factors that influence social behavior? Most of my current research centers around how people perceive potentially dangerous (either socially or physically) individuals and situations. From this perspective, I've been focusing on the question of morbid curiosity - why are people interested in or curious about violence and horror? I am also interested in connecting the use of negative stimuli to meaning-making in life. I use a variety of tools in my research, including hormone analysis, behavioral analysis, eye tracking, surveys, and interviews.
+I'm currently a PhD student in the Department of Comparative Human Development at The University of Chicago and a Fellow at the Institute for Mind and Biology in the Behavioral Biology Lab. Broadly, I'm interested in how humans interact with and perceive one another. What are the social, cognitive, and biological factors that influence social behavior? Most of my current research centers around how people perceive potentially dangerous (either socially or physically) individuals and situations. From this perspective, I've been focusing on the phenomenon of morbid curiosity - why are people interested in or curious about violence and horror? I am also interested in connecting the use of negative stimuli to meaning-making in life. I use a variety of tools in my research, including hormone analysis, behavioral analysis, eye tracking, surveys, and interviews.
  
