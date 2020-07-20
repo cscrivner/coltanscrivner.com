@@ -5,15 +5,22 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#F4D03F" 
+primary = "#fff" 
 
 # Menu
-menu_primary = "#C0392B"
+menu_primary = "#fff"
 menu_text = "#fff"
-menu_text_active = "#F4D03F"
+menu_text_active = "#fff"
 menu_title = "#fff"
 
 # Backgrounds
-background = "#212F3D"
-home_section_odd = "#212F3D"
-home_section_even = "#212F3D"
+background = "#fff"
+home_section_odd = "#fff"
+home_section_even = "#fff"
+
+
+#C0392B red
+
+#212F3D blackish
+
+#F4D03F yellow
