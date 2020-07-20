@@ -10,15 +10,15 @@ primary_light = "#721915"
 primary_dark = "#721915"
 
 # Menu
-menu_primary = "#BCBABA"
+menu_primary = "#D2C6BD"
 menu_text = "#721915"
 menu_text_active = "#000000"
 menu_title = "#000000"
 
 # Backgrounds
-background = "#BCBABA"
-home_section_odd = "#BCBABA"
-home_section_even = "#e4e3e3"
+background = "#D2C6BD"
+home_section_odd = "#D2C6BD"
+home_section_even = "#AEA096"
 
 
 #721915 red
