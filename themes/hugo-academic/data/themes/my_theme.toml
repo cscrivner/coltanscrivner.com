@@ -6,13 +6,13 @@ light = true
 
 # Primary
 primary = "#fff" 
-primary_light = "#328cc1"
-primary_dark = "#328cc1"
+primary_light = "#F4D03F"
+primary_dark = "#F4D03F"
 
 # Menu
-menu_primary = "#fff"
+menu_primary = "#C0392B"
 menu_text = "#fff"
-menu_text_active = "#fff"
+menu_text_active = "#F4D03F"
 menu_title = "#fff"
 
 # Backgrounds
