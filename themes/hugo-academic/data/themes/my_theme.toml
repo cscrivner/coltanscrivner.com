@@ -10,10 +10,10 @@ primary_light = "#721915"
 primary_dark = "#721915"
 
 # Menu
-menu_primary = "#212F3D"
+menu_primary = "#5D6D7E"
 menu_text = "#721915"
 menu_text_active = "#000000"
-menu_title = "#721915"
+menu_title = "#000000"
 
 # Backgrounds
 background = "#212F3D"
