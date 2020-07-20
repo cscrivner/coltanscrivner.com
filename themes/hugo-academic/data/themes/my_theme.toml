@@ -2,7 +2,7 @@
 name = "my_theme"
 
 # Is theme light or dark?
-light = false
+light = true
 
 # Primary
 primary = "#721915" 
@@ -10,15 +10,15 @@ primary_light = "#721915"
 primary_dark = "#721915"
 
 # Menu
-menu_primary = "#5D6D7E"
+menu_primary = "#BCBABA"
 menu_text = "#721915"
 menu_text_active = "#000000"
 menu_title = "#000000"
 
 # Backgrounds
-background = "#212F3D"
-home_section_odd = "#212F3D"
-home_section_even = "#212F3D"
+background = "#BCBABA"
+home_section_odd = "#BCBABA"
+home_section_even = "#BCBABA"
 
 
 #721915 red
