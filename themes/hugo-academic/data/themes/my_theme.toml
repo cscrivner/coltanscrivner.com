@@ -6,6 +6,8 @@ light = true
 
 # Primary
 primary = "#fff" 
+primary_light = "#328cc1"
+primary_dark = "#328cc1"
 
 # Menu
 menu_primary = "#fff"
