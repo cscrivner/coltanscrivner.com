@@ -17,7 +17,7 @@
 [[main]]
   name = "CV"
   url = "files/Morbid_Curiosity_Scale_instructions.pdf"
-  weight = 60
+  weight = 25
 
 [[main]]
   name = "Skills"
