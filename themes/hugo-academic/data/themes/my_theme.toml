@@ -14,6 +14,6 @@ menu_text_active = "#F4D03F"
 menu_title = "#F4D03F"
 
 # Backgrounds
-background = "#C0392B"
+background = "#212F3D"
 home_section_odd = "#212F3D"
 home_section_even = "#212F3D"
