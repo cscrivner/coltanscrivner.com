@@ -2,7 +2,7 @@
 name = "my_theme"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
 primary = "#F4D03F" 
@@ -10,9 +10,9 @@ primary_light = "#F4D03F"
 primary_dark = "#F4D03F"
 
 # Menu
-menu_primary = "#C0392B"
+menu_primary = "#5F5E5E"
 menu_text = "#fff"
-menu_text_active = "#F4D03F"
+menu_text_active = "#721915"
 menu_title = "#fff"
 
 # Backgrounds
@@ -21,7 +21,7 @@ home_section_odd = "#fff"
 home_section_even = "#fff"
 
 
-#C0392B red
+#721915 red
 
 #212F3D blackish
 
