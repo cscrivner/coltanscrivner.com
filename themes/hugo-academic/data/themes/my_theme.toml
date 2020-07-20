@@ -2,7 +2,7 @@
 name = "my_theme"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
 primary = "#721915" 
@@ -24,5 +24,3 @@ home_section_even = "#BCBABA"
 #721915 red
 
 #212F3D blackish
-
-#F4D03F yellow
