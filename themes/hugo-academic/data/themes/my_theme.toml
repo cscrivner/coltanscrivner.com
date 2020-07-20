@@ -16,9 +16,9 @@ menu_text_active = "#721915"
 menu_title = "#fff"
 
 # Backgrounds
-background = "#fff"
-home_section_odd = "#fff"
-home_section_even = "#fff"
+background = "#212F3D"
+home_section_odd = "#212F3D"
+home_section_even = "#212F3D"
 
 
 #721915 red
