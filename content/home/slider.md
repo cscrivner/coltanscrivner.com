@@ -19,6 +19,29 @@ height = ""
 
 
 [[item]]
+  title = "Horror Fans Have More Fun During a Pandemic"
+  content = "My piece for Nautilus"
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "headers/nautilus.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Click here to read the story"
+  cta_url = "http://nautil.us/issue/87/risk/horror-fans-have-more-fun-during-a-pandemic"
+  cta_icon_pack = "fas"
+  cta_icon = ""
+
+
+
+
+
+[[item]]
   title = "Horror fans are more psychologically resilient during the pandemic"
   content = "Interview with New Scientist"
   align = "center"  # Choose `center`, `left`, or `right`.
@@ -62,28 +85,6 @@ height = ""
   
   
 
-
-
-
-
-[[item]]
-  title = "Why do we love creepy images?"
-  content = "My interview with Wired Magazine"
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/creepy-story.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Click here to read the story"
-  cta_url = "https://www.wired.com/story/appeal-cursed-images-meme/"
-  cta_icon_pack = "fas"
-  cta_icon = ""
 
 
 
