@@ -37,7 +37,7 @@ My work on morbid curiosity has been covered by a variety of news and media outl
 
 For a more in-depth discussion, check out [my interview on the Mad Scientist Podcast](https://www.spreaker.com/user/11756523/4-20-coltan-scrivner?fbclid=IwAR3LOQCWM6ARuEkq8e9Z7EfsLEHd05dZu4CXRnNbAj4m7I0IBba6sxZMhFY).
 
-[Click here](https://coltanscrivner.com/files/Morbid_Curiosity_Scale_instructions.pdf") to download the Morbid Curiosity Scale and how to use it. Please cite the Psychology of Morbid Curiosity paper (currently a preprint, [found here](https://psyarxiv.com/xug34/)) if you use it.
+[Click here](https://coltanscrivner.com/files/Morbid_Curiosity_Scale_instructions.pdf") to download the Morbid Curiosity Scale and see how to use it. Please cite the Psychology of Morbid Curiosity paper (currently a preprint, [found here](https://psyarxiv.com/xug34/)) if you use the scale.
 
 
 ### Relevant articles
