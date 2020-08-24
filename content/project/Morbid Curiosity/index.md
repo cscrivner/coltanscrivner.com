@@ -40,11 +40,11 @@ For a more in-depth discussion, check out [my interview on the Mad Scientist Pod
 [Click here](https://coltanscrivner.com/files/Morbid_Curiosity_Scale_instructions.pdf") to download the Morbid Curiosity Scale and see how to use it. Please cite the Psychology of Morbid Curiosity paper (currently a preprint, [found here](https://psyarxiv.com/xug34/)) if you use the scale.
 
 
-### Relevant articles
+### Relevant manuscripts
 
-[Preprint of the Psychology of Morbid Curiosity](https://psyarxiv.com/xug34/).
+[The Psychology of Morbid Curiosity](https://psyarxiv.com/xug34/).
 
-[Morbidly curious individuals are more psychologically resilient during the pandemic](https://psyarxiv.com/4c7af/)
+[Pandemic Practice: Horror Fans and Morbidly Curious Individuals Are More Psychologically Resilient During the COVID-19 Pandemic](https://psyarxiv.com/4c7af/)
 
 [An Infectious Curiosity: Morbid Curiosity and Media Preferences During a Pandemic](https://esiculture.com/an-infectious-curiosity-morbid-curiosity-and-media-preferences-during-a-pandemic)
 
