@@ -19,10 +19,10 @@ publication_types:
 - "2"
 publishDate: "2020"
 slides:
-summary: Horror fans seem to be coping better with the stress of the pandemic than non-horror fans.
+summary: Horror fans seem to be coping better with the stress of the pandemic.
 tags:
 - Source Themes
-title: Pandemic practice: - Horror fans and morbidly curious individuals are more psychologically resilient during the COVID-19 pandemic
+title: Pandemic practice - Horror fans and morbidly curious individuals are more psychologically resilient during the COVID-19 pandemic
 url_code: "https://osf.io/x524h/?view_only=adc26f2047394fde83d04ca5f3d58212"
 url_dataset: "https://osf.io/x524h/?view_only=adc26f2047394fde83d04ca5f3d58212"
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0191886920305882"
