@@ -6,7 +6,7 @@ authors:
 - Dario Maestripieri
 date: "2020-05-29T00:00:00Z"
 doi:
-featured: true
+featured: false
 image:
   caption:
   focal_point: "smart"
