@@ -33,10 +33,10 @@ url_source: "https://www.sciencedirect.com/science/article/pii/S0191886920305882
 url_video: ""
 ---
 
+[Today I read](https://www.facebook.com/watch/ScienceNaturePage/2362566287099239/) made a great video summary of our results from this project
+
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v8.0" nonce="CesBFVw4"></script>
 
-
-[Today I read](https://www.facebook.com/watch/ScienceNaturePage/2362566287099239/) made a great video summary of our results from this project
 
 <div class="fb-video" data-href="https://www.facebook.com/ScienceNaturePage/videos/773777890074944/" data-show-text="false" data-width=""><blockquote cite="https://developers.facebook.com/ScienceNaturePage/videos/773777890074944/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/ScienceNaturePage/videos/773777890074944/">Fans of horror films showed more psychological resilience during COVID-19 pandemic</a><p>Fans of horror films showed more psychological resilience during COVID-19 pandemic</p>Posted by <a href="https://www.facebook.com/ScienceNaturePage/">Hashem Al-Ghaili</a> on Monday, September 21, 2020</blockquote></div>
