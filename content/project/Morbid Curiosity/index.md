@@ -46,6 +46,8 @@ For a more in-depth discussion, check out [my interview on the Mad Scientist Pod
 
 [Pandemic Practice: Horror Fans and Morbidly Curious Individuals Are More Psychologically Resilient During the COVID-19 Pandemic](https://www.sciencedirect.com/science/article/pii/S0191886920305882)
 
+
+
 [An Infectious Curiosity: Morbid Curiosity and Media Preferences During a Pandemic](https://esiculture.com/an-infectious-curiosity-morbid-curiosity-and-media-preferences-during-a-pandemic)
 
 
@@ -55,6 +57,17 @@ For a more in-depth discussion, check out [my interview on the Mad Scientist Pod
 
 Below is a cabinet of curiosities I curated to test some ideas about morbid curiosity. While wearing [Pupil Invisible mobile eye tracking glasses](https://pupil-labs.com/products/invisible/), participants inspect the cabinet and choose 5 items to manually inspect and 5 items to learn more about. In addition to serving as an external validation of the Morbid Curiosity Scale, the cabient of curiosities will illuminate the relationship between perceptual and epistemic curiosity.
 ![](cabinet.jpg)
+
+
+
+[Today I read](https://www.facebook.com/watch/ScienceNaturePage/2362566287099239/) also made a great video summary of our results from the Pandemic Practice paper.
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v8.0" nonce="CesBFVw4"></script>
+
+
+<div class="fb-video" data-href="https://www.facebook.com/ScienceNaturePage/videos/773777890074944/" data-show-text="false" data-width=""><blockquote cite="https://developers.facebook.com/ScienceNaturePage/videos/773777890074944/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/ScienceNaturePage/videos/773777890074944/">Fans of horror films showed more psychological resilience during COVID-19 pandemic</a><p>Fans of horror films showed more psychological resilience during COVID-19 pandemic</p>Posted by <a href="https://www.facebook.com/ScienceNaturePage/">Hashem Al-Ghaili</a> on Monday, September 21, 2020</blockquote></div>
+
 
 
 
