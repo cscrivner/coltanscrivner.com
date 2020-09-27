@@ -36,4 +36,4 @@ url_video: ""
 
 [Today I read](https://www.facebook.com/watch/ScienceNaturePage/2362566287099239/) made a great video summary of our results from this project
 
-![](<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FScienceNaturePage%2Fvideos%2F773777890074944%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>)
+![](https://www.facebook.com/watch/?v=773777890074944&extid=EMyDgN9RbzTmksKz&t=0)
