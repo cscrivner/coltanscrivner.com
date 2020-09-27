@@ -60,7 +60,7 @@ Below is a cabinet of curiosities I curated to test some ideas about morbid curi
 
 
 
-[Today I read](https://www.facebook.com/watch/ScienceNaturePage/2362566287099239/) also made a great video summary of our results from the Pandemic Practice paper.
+[Today I Read](https://www.facebook.com/watch/ScienceNaturePage/2362566287099239/) also made this great video summary of our results from the Pandemic Practice paper.
 
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v8.0" nonce="CesBFVw4"></script>

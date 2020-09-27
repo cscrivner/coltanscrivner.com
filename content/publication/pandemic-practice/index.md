@@ -33,7 +33,7 @@ url_source: "https://www.sciencedirect.com/science/article/pii/S0191886920305882
 url_video: ""
 ---
 
-[Today I read](https://www.facebook.com/watch/ScienceNaturePage/2362566287099239/) made a great video summary of our results from this project
+[Today I Read](https://www.facebook.com/watch/ScienceNaturePage/2362566287099239/) also made this great video summary of our results from this project
 
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v8.0" nonce="CesBFVw4"></script>
