@@ -18,6 +18,32 @@ height = ""
 
 
 
+
+
+
+[[item]]
+  title = "Check out my profile in the Chicago Tribune"
+  content = "Where I discuss all things morbid curiosity"
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "headers/tribune1.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Click here to read the story"
+  cta_url = "https://www.chicagotribune.com/entertainment/ct-ent-morbid-curiosity-research-uchicago-20201014-l6br33nmrvffzmcpyndqbjfhqu-story.html"
+  cta_icon_pack = "fas"
+  cta_icon = ""
+  
+
+
+
+
 [[item]]
   title = "Horror Fans Have More Fun During a Pandemic"
   content = "My piece for Nautilus"
@@ -42,44 +68,21 @@ height = ""
 
 
 [[item]]
-  title = "Horror fans are more psychologically resilient during the pandemic"
-  content = "Interview with New Scientist"
+  title = "Can Scary Movies Be Good for Anxiety?"
+  content = "Interview with Psycom"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/guardian-horror.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/psycom1.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Click here to read the story"
-  cta_url = "https://www.newscientist.com/article/2247744-horror-movie-fans-are-better-at-coping-with-the-coronavirus-pandemic/"
-  cta_icon_pack = "fas"
-  cta_icon = ""
-  
-  
-
-
-
-[[item]]
-  title = "Interview with Ars Technica about morbid curiosity and the pandemic"
-  content = "Including my top 10 list for pandemic movies"
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/contagion.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Click here to read the story"
-  cta_url = "https://arstechnica.com/science/2020/05/indulge-your-morbid-curiosity-about-the-pandemic-with-these-ten-films/?fbclid=IwAR3yJG5x0ubaG11QfAcX9Yc0IgYbCLhiDA33U3odZE77C22l1KeucejNcGw"
+  cta_url = "https://www.psycom.net/scary-movies-anxiety"
   cta_icon_pack = "fas"
   cta_icon = ""
   
