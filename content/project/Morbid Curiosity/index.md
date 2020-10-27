@@ -32,10 +32,11 @@ Though there is no formal definition, morbid curiosity is typically described as
 
 ### Select media coverage
 
-My work on morbid curiosity has been covered by a wide variety of news and media outlets, including [New Scientist](https://www.newscientist.com/article/2247744-horror-movie-fans-are-better-at-coping-with-the-coronavirus-pandemic/), [Metro](https://metro.co.uk/2020/07/03/horror-fans-are-dealing-pandemic-better-2020-basically-horror-film-12938867/), [The Guardian](https://www.theguardian.com/science/2020/jul/01/end-of-the-world-as-we-know-it-fans-of-apocalyptic-films), [The New York Times](https://www.nytimes.com/2020/08/20/movies/scary-movies-summer.html), [NY Post](https://nypost.com/2020/07/02/horror-movie-fans-coping-better-with-the-coronavirus-study-finds/), [Nautilus](http://nautil.us/issue/87/risk/horror-fans-have-more-fun-during-a-pandemic), [Vice](https://www.vice.com/en_ca/article/5dzvez/horror-movie-fans-are-more-equipped-to-deal-with-the-pandemic-study-says), and [Dread Central](https://www.dreadcentral.com/news/332315/new-study-reveals-horror-fans-coping-with-covid-19-pandemic-better-than-the-average-person/)
+My work on morbid curiosity has been covered by a wide variety of news and media outlets, some of which include [New Scientist](https://www.newscientist.com/article/2247744-horror-movie-fans-are-better-at-coping-with-the-coronavirus-pandemic/), [Metro](https://metro.co.uk/2020/07/03/horror-fans-are-dealing-pandemic-better-2020-basically-horror-film-12938867/), [The Guardian](https://www.theguardian.com/science/2020/jul/01/end-of-the-world-as-we-know-it-fans-of-apocalyptic-films), [The New York Times](https://www.nytimes.com/2020/08/20/movies/scary-movies-summer.html), [NY Post](https://nypost.com/2020/07/02/horror-movie-fans-coping-better-with-the-coronavirus-study-finds/), [Nautilus](http://nautil.us/issue/87/risk/horror-fans-have-more-fun-during-a-pandemic), [Vice](https://www.vice.com/en_ca/article/5dzvez/horror-movie-fans-are-more-equipped-to-deal-with-the-pandemic-study-says), [Psycom](https://www.psycom.net/scary-movies-anxiety), and [Dread Central](https://www.dreadcentral.com/news/332315/new-study-reveals-horror-fans-coping-with-covid-19-pandemic-better-than-the-average-person/)
 
 
-For a more in-depth discussion, check out [my interview on the Mad Scientist Podcast](https://www.spreaker.com/user/11756523/4-20-coltan-scrivner?fbclid=IwAR3LOQCWM6ARuEkq8e9Z7EfsLEHd05dZu4CXRnNbAj4m7I0IBba6sxZMhFY).
+For a more in-depth discussion, check out [my profile in the Chicago Tribune](https://www.chicagotribune.com/entertainment/ct-ent-morbid-curiosity-research-uchicago-20201014-l6br33nmrvffzmcpyndqbjfhqu-story.html).
+
 
 [Click here](https://coltanscrivner.com/files/Morbid_Curiosity_Scale_instructions.pdf") to download the Morbid Curiosity Scale and see how to use it. Please cite the Psychology of Morbid Curiosity paper (currently a preprint, [found here](https://psyarxiv.com/xug34/)) if you use the scale.
 
@@ -45,8 +46,6 @@ For a more in-depth discussion, check out [my interview on the Mad Scientist Pod
 [The Psychology of Morbid Curiosity](https://psyarxiv.com/xug34/).
 
 [Pandemic Practice: Horror Fans and Morbidly Curious Individuals Are More Psychologically Resilient During the COVID-19 Pandemic](https://www.sciencedirect.com/science/article/pii/S0191886920305882)
-
-
 
 [An Infectious Curiosity: Morbid Curiosity and Media Preferences During a Pandemic](https://esiculture.com/an-infectious-curiosity-morbid-curiosity-and-media-preferences-during-a-pandemic)
 
