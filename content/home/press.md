@@ -12,7 +12,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "portfolio"
+  page_type = "press"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -23,7 +23,8 @@ subtitle = ""
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
-
+  filter_default = 0
+  
   #[[content.filter_button]]
     #name = "All"
     #tag = "*"
