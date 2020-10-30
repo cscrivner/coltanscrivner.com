@@ -11,7 +11,7 @@ tags:
 - horror
 - magazine
 - press
-title: Scary Movies: Can They Actually Be Good for Anxiety?
+title: Scary Movies - Can They Actually Be Good for Anxiety?
 weight: 1
 url_code: ""
 url_pdf: ""
