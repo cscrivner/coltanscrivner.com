@@ -9,12 +9,12 @@ image:
 summary: New Scientist?
 tags:
 - horror
-- resilience
+- magazine
 title: Horror movie fans are better at coping with the coronavirus pandemic
 weight: 2
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-external_link: ""
+external_link: "https://www.newscientist.com/article/2247744-horror-movie-fans-are-better-at-coping-with-the-coronavirus-pandemic/#ixzz6cOTPsJ6W"
 ---
