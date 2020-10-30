@@ -1,21 +1,21 @@
 ---
 authors:
-- Psycom
+- Vice
 date: "2020-10-25T00:00:00Z"
-external_link: "https://www.psycom.net/scary-movies-anxiety"
+external_link: "https://www.vice.com/en/article/5dzvez/horror-movie-fans-are-more-equipped-to-deal-with-the-pandemic-study-says"
 image:
   caption:
   focal_point: Smart
-summary: Psycom
+summary: Vice
 tags:
 - horror
 - magazine
 - press
-title: Scary Movies - Can They Actually Be Good for Anxiety?
+title: Horror movie fans are having an easier time dealing with the pandemic
 weight: 1
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-external_link: "https://www.psycom.net/scary-movies-anxiety"
+external_link: "https://www.vice.com/en/article/5dzvez/horror-movie-fans-are-more-equipped-to-deal-with-the-pandemic-study-says"
 ---

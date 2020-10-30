@@ -1,12 +1,12 @@
 ---
 authors:
-- New Scientist
-date: "2020-07-02T00:00:00Z"
-external_link: "https://www.newscientist.com/article/2247744-horror-movie-fans-are-better-at-coping-with-the-coronavirus-pandemic/#ixzz6cOTPsJ6W"
+- National Geographic
+date: "2020-10-30T00:00:00Z"
+external_link: "https://www.nationalgeographic.com/science/2020/10/how-horror-movies-can-help-overcome-trauma-and-relieve-stress/"
 image:
   caption:
   focal_point: Smart
-summary: New Scientist?
+summary: National Geographic
 tags:
 - horror
 - magazine
@@ -17,5 +17,5 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-external_link: "https://www.newscientist.com/article/2247744-horror-movie-fans-are-better-at-coping-with-the-coronavirus-pandemic/#ixzz6cOTPsJ6W"
+external_link: "https://www.nationalgeographic.com/science/2020/10/how-horror-movies-can-help-overcome-trauma-and-relieve-stress/"
 ---

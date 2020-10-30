@@ -1,21 +1,21 @@
 ---
 authors:
-- Psycom
-date: "2020-10-25T00:00:00Z"
-external_link: "https://www.psycom.net/scary-movies-anxiety"
+- Chicago Tribune
+date: "2020-10-14T00:00:00Z"
+external_link: "https://www.chicagotribune.com/entertainment/ct-ent-morbid-curiosity-research-uchicago-20201014-l6br33nmrvffzmcpyndqbjfhqu-story.html"
 image:
   caption:
   focal_point: Smart
-summary: Psycom
+summary: Chicago Tribune
 tags:
-- horror
-- magazine
+- morbid curiosity
+- newspaper
 - press
-title: Scary Movies: Can They Actually Be Good for Anxiety?
+title: University of Chicago grad student has made a specialty of morbid curiosity
 weight: 1
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-external_link: "https://www.psycom.net/scary-movies-anxiety"
+external_link: "https://www.chicagotribune.com/entertainment/ct-ent-morbid-curiosity-research-uchicago-20201014-l6br33nmrvffzmcpyndqbjfhqu-story.html"
 ---
