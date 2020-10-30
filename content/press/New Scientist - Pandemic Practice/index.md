@@ -10,6 +10,7 @@ summary: New Scientist?
 tags:
 - horror
 - magazine
+- press
 title: Horror movie fans are better at coping with the coronavirus pandemic
 weight: 1
 url_code: ""
