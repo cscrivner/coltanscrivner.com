@@ -6,7 +6,7 @@ external_link: "https://www.psycom.net/scary-movies-anxiety"
 image:
   caption:
   focal_point: Smart
-summary: Vice
+summary: Psycom
 tags:
 - horror
 - magazine
