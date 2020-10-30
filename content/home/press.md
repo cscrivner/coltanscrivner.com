@@ -23,13 +23,6 @@ subtitle = ""
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = "press"
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-    
 
   #[[content.filter_button]]
     #name = "All"
