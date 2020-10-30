@@ -11,7 +11,7 @@ tags:
 - horror
 - magazine
 title: Horror movie fans are better at coping with the coronavirus pandemic
-weight: 2
+weight: 1
 url_code: ""
 url_pdf: ""
 url_slides: ""
