@@ -9,7 +9,7 @@ image:
 summary: Chicago Tribune
 tags:
 - morbid curiosity
-- newspaper
+- news
 - press
 title: University of Chicago grad student has made a specialty of morbid curiosity
 weight: 1

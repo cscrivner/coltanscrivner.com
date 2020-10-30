@@ -9,7 +9,7 @@ image:
 summary: The Guardian
 tags:
 - horror
-- magazine
+- news
 - press
 title: I feel fine - fans of world-ending films coping better with pandemic
 weight: 1

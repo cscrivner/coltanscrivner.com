@@ -9,7 +9,7 @@ image:
 summary: Psycom
 tags:
 - horror
-- magazine
+- news
 - press
 title: Scary movies - Can they actually be good for anxiety?
 weight: 1
