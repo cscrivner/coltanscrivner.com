@@ -2,7 +2,7 @@
 # A Recent Blog Posts section created with the Pages widget.
 # This section displays recent blog posts from `content/press/`.
 
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "projects"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
@@ -12,7 +12,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "press"
+  page_type = "portfolio"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
