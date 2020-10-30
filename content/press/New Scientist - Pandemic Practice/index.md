@@ -11,7 +11,7 @@ tags:
 - horror
 - magazine
 - press
-title: How horror movies can help people overcome real-world trauma
+title: Horror movie fans are better at coping with the coronavirus pandemic
 weight: 1
 url_code: ""
 url_pdf: ""
