@@ -16,9 +16,9 @@ education:
 email: "cscrivner@uchicago.edu"
 interests:
 - Morbid Curiosity
+- Psychology of Horror
 - Social Cognition
 - Evolution of Emotions
-- Social Perception
 name: Coltan Scrivner
 organizations:
 - name: Department of Comparative Human Development
