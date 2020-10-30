@@ -29,6 +29,27 @@ subtitle = ""
     category = ""
     publication_type = ""
     exclude_featured = false
+    
+
+  #[[content.filter_button]]
+    #name = "All"
+    #tag = "*"
+  
+  #[[content.filter_button]]
+    #name = "News"
+    #tag = "news"
+  
+  #[[content.filter_button]]
+   # name = "Magazines"
+    #tag = "magazine"
+    
+  #[[content.filter_button]]
+    #name = "Radio"
+    #tag = "radio"
+  
+  #[[content.filter_button]]
+   # name = "Podcast"
+    #tag = "podcast"
   
 [design]
   # Toggle between the various page layout types.
