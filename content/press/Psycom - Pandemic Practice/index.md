@@ -17,5 +17,5 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-external_link: "hhttps://www.psycom.net/scary-movies-anxiety"
+external_link: "https://www.psycom.net/scary-movies-anxiety"
 ---
