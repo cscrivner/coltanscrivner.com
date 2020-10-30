@@ -44,6 +44,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Podcast"
     tag = "podcast"
+    
+  [[content.filter_button]]
+    name = "TV"
+    tag = "tv"
   
 [design]
   # Toggle between the various page layout types.
