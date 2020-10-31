@@ -9,7 +9,7 @@ image:
 summary: Vice
 tags:
 - horror
-- magazine
+- news
 - press
 - featured
 title: Horror movie fans are having an easier time dealing with the pandemic
