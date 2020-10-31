@@ -1,21 +1,21 @@
 ---
 authors:
-- Evan Solomon Show
-date: "2020-09-24T00:00:00Z"
-external_link: "https://www.iheartradio.ca/am-1150/shows/evan-solomon-show-people-who-watch-horror-movies-may-be-coping-better-during-the-pandemic-1.13573951?mode=Article"
+- Top of Mind with Julie Rose
+date: "2020-10-27T00:00:00Z"
+external_link: "http://byuradiostage.byu.edu/episode/d1bc655d-aad6-4905-b855-600c19fc05a7/top-of-mind-with-julie-rose-fake-news-homework-horror-films"
 image:
   caption:
   focal_point: Smart
-summary: Evan Solomon Show
+summary: Top of Mind with Julie Rose
 tags:
 - horror
 - radio
 - press
-title: People who watch horror movies may be coping better during the pandemic
+title: Horror movie fans are coping better during the pandemic
 weight: 1
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-external_link: "https://www.iheartradio.ca/am-1150/shows/evan-solomon-show-people-who-watch-horror-movies-may-be-coping-better-during-the-pandemic-1.13573951?mode=Article"
+external_link: "http://byuradiostage.byu.edu/episode/d1bc655d-aad6-4905-b855-600c19fc05a7/top-of-mind-with-julie-rose-fake-news-homework-horror-films"
 ---
