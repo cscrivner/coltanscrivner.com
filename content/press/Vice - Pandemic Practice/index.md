@@ -1,7 +1,7 @@
 ---
 authors:
 - Vice
-date: "2020-07-02T00:00:00Z"
+date: "2020-09-22T00:00:00Z"
 external_link: "https://www.vice.com/en/article/5dzvez/horror-movie-fans-are-more-equipped-to-deal-with-the-pandemic-study-says"
 image:
   caption:
