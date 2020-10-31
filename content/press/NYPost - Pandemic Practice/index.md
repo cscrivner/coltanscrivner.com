@@ -11,7 +11,6 @@ tags:
 - horror
 - news
 - press
-- featured
 title: Horror movie fans coping better with the coronavirus
 weight: 1
 url_code: ""
