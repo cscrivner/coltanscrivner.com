@@ -11,7 +11,7 @@ tags:
 - horror
 - radio
 - press
-title: Not necessarily the nose: What a horror show, 2020 edition
+title: Not necessarily the nose - What a horror show, 2020 edition
 weight: 1
 url_code: ""
 url_pdf: ""
