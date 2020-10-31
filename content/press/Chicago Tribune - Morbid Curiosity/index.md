@@ -11,6 +11,7 @@ tags:
 - morbid curiosity
 - news
 - press
+- featured
 title: University of Chicago grad student has made a specialty of morbid curiosity
 weight: 1
 url_code: ""

@@ -11,6 +11,7 @@ tags:
 - horror
 - podcast
 - press
+- featured
 title: Lessons from the zombie apocalypse
 weight: 1
 url_code: ""

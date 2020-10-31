@@ -11,6 +11,7 @@ tags:
 - horror
 - news
 - press
+- featured
 title: Scary movies for when the world is a fright
 weight: 1
 url_code: ""

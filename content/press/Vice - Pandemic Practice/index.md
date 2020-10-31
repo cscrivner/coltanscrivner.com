@@ -11,6 +11,7 @@ tags:
 - horror
 - magazine
 - press
+- featured
 title: Horror movie fans are having an easier time dealing with the pandemic
 weight: 1
 url_code: ""

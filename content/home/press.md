@@ -26,8 +26,8 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
-    tag = "*"
+    name = "Featured"
+    tag = "featured"
   
   [[content.filter_button]]
     name = "News"
