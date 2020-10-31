@@ -1,21 +1,21 @@
 ---
 authors:
-- New York Post
+- Express
 date: "2020-07-02T00:00:00Z"
-external_link: "https://nypost.com/2020/07/02/horror-movie-fans-coping-better-with-the-coronavirus-study-finds/"
+external_link: "https://www.express.co.uk/news/science/1308395/coronavirus-apocalypse-horror-film-fans-cope-better-covid-19-pandemic-psychology"
 image:
   caption:
   focal_point: Smart
-summary: New York Post
+summary: Express
 tags:
 - horror
 - news
 - press
-title: Horror movie fans coping better with the coronavirus
+title: Coronavirus APOCALYPSE - World-ending film fans cope better with COVID-19 pandemic
 weight: 1
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-external_link: "https://nypost.com/2020/07/02/horror-movie-fans-coping-better-with-the-coronavirus-study-finds/"
+external_link: "https://www.express.co.uk/news/science/1308395/coronavirus-apocalypse-horror-film-fans-cope-better-covid-19-pandemic-psychology"
 ---
