@@ -8,8 +8,8 @@ image:
   focal_point: Smart
 summary: UChicago News
 tags:
-- creepy
-- magazine
+- morbid curiosity
+- news
 - press
 title: Why scary movies are helping some people cope with the pandemic
 weight: 1
