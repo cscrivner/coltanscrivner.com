@@ -11,7 +11,7 @@ tags:
 - horror
 - magazine
 - press
-title: Why you can't look away from #CursedImages
+title: Why you can't look away from \#CursedImages
 weight: 1
 url_code: ""
 url_pdf: ""
