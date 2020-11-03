@@ -25,7 +25,7 @@ Every October, millions of people pay to be scared in haunted houses, or "haunts
 
 - The research was carried out at [Dystopia Haunted House](https://www.facebook.com/DystopiaEntertainment/) while I was a visiting researcher at the [Interacting Minds Centre at Aarhus University](http://interactingminds.au.dk).
 
-- This project was in collaboration with [Mathias Clasen](http://pure.au.dk/portal/en/persons/mathias-clasen(3c9b0961-b1e9-4084-867f-d8b959ba40e5).html), [Marc Andersen](http://pure.au.dk/portal/en/persons/id(67f068d6-a98a-4f2b-840c-53b8855192de).html), and [Uffe Schjødt](http://pure.au.dk/portal/en/us@teo.au.dk)
+Check out the published article for free [here](https://journals.sagepub.com/doi/full/10.1177/0956797620972116)
 
 
 <br/><br/>
