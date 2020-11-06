@@ -22,7 +22,7 @@ height = ""
 
 
 [[item]]
-  title = "Check out my profile in the Chicago Tribune"
+  title = "My profile in the Chicago Tribune"
   content = "Where I discuss all things morbid curiosity"
   align = "center"  # Choose `center`, `left`, or `right`.
 
