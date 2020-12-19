@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   company_url = "https://imb.uchicago.edu"
   location = "The University of Chicago"
   date_start = "2017-07-01"
-  date_end = ""
+  date_end = "2022-06-01"
   description = """ Behavioral Biology Laboratory """
 
 
@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   company_url = "https://humdev.uchicago.edu"
   location = "The University of Chicago"
   date_start = "2016-10-01"
-  date_end = ""
+  date_end = "2022-06-01"
   description = """Behavioral Biology concentration"""
   
 
@@ -76,8 +76,8 @@ date_format = "Jan 2006"
   company = "Facebook"
   company_url = "http://interactingminds.au.dk"
   location = "San Francisco, California"
-  date_start = "2021-06-01"
-  date_end = "2021-08-21"
+  date_start = "2021-06-21"
+  date_end = "2021-09-10"
   description = """User Experience Graduate Intern at Facebook."""
 
 +++
