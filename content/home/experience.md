@@ -39,6 +39,17 @@ date_format = "Jan 2006"
   # Text color (true=light or false=dark).
   # text_color_light = true  
 
+  
+[[experience]]
+  title = "PhD Student"
+  company = "Department of Comparative Human Development"
+  company_url = "https://humdev.uchicago.edu"
+  location = "The University of Chicago"
+  date_start = "2016-10-01"
+  date_end = "2022-06-01"
+  description = """Behavioral Biology concentration"""
+  
+
 [[experience]]
   title = "Fellow"
   company = "Institute for Mind and Biology"
@@ -57,18 +68,6 @@ date_format = "Jan 2006"
   date_start = "2017-10-01"
   date_end = "2020-11-01"
   description = """Designed and conducted a field experiment at a haunted house attraction (Fall 2017 and Fall 2020."""
-  
-
-  
-[[experience]]
-  title = "PhD Student"
-  company = "Department of Comparative Human Development"
-  company_url = "https://humdev.uchicago.edu"
-  location = "The University of Chicago"
-  date_start = "2016-10-01"
-  date_end = "2022-06-01"
-  description = """Behavioral Biology concentration"""
-  
 
 
 [[experience]]
