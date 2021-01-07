@@ -37,13 +37,15 @@ My work on morbid curiosity has been covered by a wide variety of news and media
 
 For a more in-depth discussion of my work on morbid curiosity, check out [my profile in the Chicago Tribune](https://www.chicagotribune.com/entertainment/ct-ent-morbid-curiosity-research-uchicago-20201014-l6br33nmrvffzmcpyndqbjfhqu-story.html).
 
+<br/><br/>
 
 ### Want to try out the Morbid Curiosity Scale?
 
-[Click here](https://coltanscrivner.com/files/Morbid_Curiosity_Scale_instructions.pdf") to download the Morbid Curiosity Scale and see how to use it. Please cite the Psychology of Morbid Curiosity paper (currently a preprint, [found here](https://psyarxiv.com/xug34/)) if you use the scale.
+[Click here](https://coltanscrivner.com/files/Morbid_Curiosity_Scale_instructions.pdf") to download the Morbid Curiosity Scale and see how to use it. Please cite the [Psychology of Morbid Curiosity paper](https://psyarxiv.com/xug34/) if you use the scale.
 
 If you want to see how morbidly curious you are, [click here](https://ssd.az1.qualtrics.com/jfe/form/SV_9GLAOrmsjMfthg9) to take the scale yourself.
 
+<br/><br/>
 
 ### Relevant manuscripts
 
