@@ -11,6 +11,7 @@ tags:
 - horror
 - news
 - press
+- featured
 title: I feel fine - fans of world-ending films coping better with pandemic
 weight: 1
 url_code: ""

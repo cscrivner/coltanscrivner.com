@@ -11,6 +11,7 @@ tags:
 - horror
 - magazine
 - press
+- featured
 title: Why The Zombie Apocalypse Prepared Us For Pandemic Coronavirus
 weight: 1
 url_code: ""
