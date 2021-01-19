@@ -25,11 +25,11 @@ tags:
 title: Pandemic practice - Horror fans and morbidly curious individuals are more psychologically resilient during the COVID-19 pandemic
 url_code: "https://osf.io/x524h/?view_only=adc26f2047394fde83d04ca5f3d58212"
 url_dataset: "https://osf.io/x524h/?view_only=adc26f2047394fde83d04ca5f3d58212"
-url_pdf: "https://www.sciencedirect.com/science/article/pii/S0191886920305882"
+url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7492010/"
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://www.sciencedirect.com/science/article/pii/S0191886920305882"
+url_source: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7492010/"
 url_video: ""
 ---
 
