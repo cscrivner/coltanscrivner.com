@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in Comparative Human Development - Behavioral Biology
     institution: The University of Chicago
-    year: 2021 (expected)
+    year: 2022 (expected)
   - course: MS in Forensic Science - Biology/Chemistry with honors
     institution: The University of Central Oklahoma
     year: 2016
