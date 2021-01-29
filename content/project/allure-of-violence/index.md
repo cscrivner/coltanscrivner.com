@@ -32,6 +32,15 @@ This project is funded by [the Neubauer Collegium for Culture and Society](https
 <br/><br/>
 <br/><br/>
 
+## **Manuscript**
+You can find the [published study here](https://www.nature.com/articles/s41598-019-54327-3)
+
+[![](preprint.jpg)](https://www.nature.com/articles/s41598-019-54327-3)
+
+
+<br/><br/>
+<br/><br/>
+
 ## **The Allure of Violence Conference**
 
 ![](conference.jpg)
@@ -42,14 +51,5 @@ To kick off this project, we hosted a conference in which we invited a wide rang
 
 - The conference even included a live stage-fight! Courtesy of [Fight Master David Woolley and his students](https://www.colum.edu/academics/faculty/david-wooley.html)
 
-
-
-<br/><br/>
-<br/><br/>
-
-## **Preprint**
-You can find the [full-text here](https://www.nature.com/articles/s41598-019-54327-3)
-
-[![](preprint.jpg)](https://www.nature.com/articles/s41598-019-54327-3)
 
 

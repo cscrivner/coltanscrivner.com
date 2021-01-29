@@ -27,14 +27,17 @@ Impaled. Dismembered. Beheaded. The archeological, historical, and ethnographic 
 
 <br/><br/>
 
-This project is in collaboration with [Daniel Fessler](http://www.danielmtfessler.com) and [Colin Holbrook](http://cholbrook01.bol.ucla.edu)
+This project is in collaboration with [Daniel Fessler](http://www.danielmtfessler.com), [Colin Holbrook](http://cholbrook01.bol.ucla.edu), and [Dario Maestripieri](http://primate.uchicago.edu/dario-maestripieri.html).
 
 
 <br/><br/>
 <br/><br/>
 
-## **Preprint**
-You can find our preprint for the first paper from this project [on PsyArXiv](https://psyarxiv.com/23bqx/)
+## **Manuscript**
+
+The first study from this project was published in [Aggressive Behavior](https://onlinelibrary.wiley.com/doi/abs/10.1002/ab.21907).
+
+You can find a free PDF [here, on PsyArXiv](https://psyarxiv.com/23bqx/)
 
 [![](preprint.jpg)](https://psyarxiv.com/23bqx/)
 
