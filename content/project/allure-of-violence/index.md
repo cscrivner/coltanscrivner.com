@@ -24,6 +24,8 @@ url_video: ""
 external_link: ""
 ---
 
+### Why are we captivated by violence?
+
 Discussions of violence and initiatives to curb it pervade modern political and social discourses across much of the world. However, there is still a lack of rich, interdisciplinary explanations of how people perceive, process, and make meaning from experiences of violence. While past research has focused on investigating how people understand violent conflicts and how exposure to violence relates to behavioral and life outcomes, virtually no work has been conducted on how visual attention to interpersonal violence relates to interpretation and rationalization of what is being seen. This two-year project utilizes an innovative mixed-methods approach in which we combine eye tracking and verbal descriptions to better understand how people extract and construct meaning from violent social interactions. We are also exploring the role of life experiences, such as exposure to community violence, and individual differences on visual and cognitive biases that occur when viewing violence.
 
 This project is funded by [the Neubauer Collegium for Culture and Society](https://neubauercollegium.uchicago.edu/faculty/understanding_the_meaning_making_of_violence_bridging_perception_cognition/) and is in collaboration with [Marc Berman](https://psychology.uchicago.edu/directory/marc-g-berman), [Kyoung whan Choe](https://voices.uchicago.edu/bermanlab/choe/), [Rick Shweder](https://humdev.uchicago.edu/directory/richard-shweder), [Gabe Velez](https://marquette.academia.edu/GabrielVelez), and [Dario Maestripieri ](http://primate.uchicago.edu/dario-maestripieri.html), 

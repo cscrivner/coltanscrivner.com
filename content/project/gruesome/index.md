@@ -23,6 +23,8 @@ url_video: ""
 external_link: ""
 ---
 
+### What is the point of gruesome behavior?
+
 Impaled. Dismembered. Beheaded. The archeological, historical, and ethnographic records are replete with evidence not only of violence, but of violence that is excessive and overtly grisly. Today, internet searches readily return photos and videos of the acts of terrorist organizations, crime syndicates, and repressive regimes, all of whom not only kill their victims, but conspicuously damage them in a gruesome fashion. These actions appear to be intended to intimidate opponents. In this project we explore 1) the communicative facet of grisly acts, and 2) the thesis that the formidability of a potential antagonist is cognitively represented using the dimensions of bodily size and strength. We examine how observers impute dispositional and motivational attributes on the basis of gruesome acts and demonstrate that representations of relative formidability translate into expectations regarding the outcomes of agonistic conflicts.
 
 <br/><br/>
