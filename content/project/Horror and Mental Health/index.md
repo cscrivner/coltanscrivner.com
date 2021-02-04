@@ -10,7 +10,7 @@ summary: Can horror be good for you?
 tags:
 - curiosity
 - death
-- violence
+- horror
 title: Horror and Mental Health
 weight: 1
 url_code: ""
