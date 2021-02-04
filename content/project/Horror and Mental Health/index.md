@@ -18,7 +18,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 external_link: ""
-sharing_image = "featured.jpg"
+sharing_image: "featured.jpg"
 
 ---
 
