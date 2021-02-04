@@ -3,7 +3,7 @@ authors:
 - admin
 date: "2021-02-04T00:00:00Z"
 external_link:
-image:
+image: "featured.jpg"
   caption:
   focal_point: Smart
 summary: Can horror be good for you?
