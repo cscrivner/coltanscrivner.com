@@ -26,7 +26,7 @@ external_link: ""
 
 Are you curious about what Gladiatorial fights in the Coliseum of Ancient Rome were like? Have you ever wondered how an autopsy is performed? Would you watch a documentary about a famous serial killer? If there was a supposedly haunted place in your city, would you be tempted to visit? Most people would answer yes to at least one of these questions. But why are people curious about phenomena that might be classified as morbid? 
 
-Though there is no formal definition, morbid curiosity is typically described as an interest in or curiosity about unpleasant things, especially death. The commercial success of horror films, popularity of true crime television shows, and prevalence of violence in the news implies that the average person possesses some degree of morbid curiosity. Likewise, the presence of death-related phenomena in literature and art and the historical attraction of public executions and gladiatorial fights suggests that morbid curiosity is an old and cross-cultural phenomenon. Despite the ubiquity of morbid material in entertainment, research on morbid curiosity is largely absent from the psychological literature. Moreover, although there is evidence that morbid curiosity is a well-understood lay phenomenon and that there are individual differences in morbid curiosity, no well-validated scale exists. In this research project, I am investigating the psychological nature of morbid curiosity by creating the Morbid Curiosity Scale (MCS), evaluating its ability to predict behavioral outcomes, and assessing its relationship with personality and behavior. The MCS and morbid curiosity behavioral tasks will be assessed in online adult samples, university samples, and attendees at events related to morbid curiosity, such as the [Oddities and Curiosities Expo](https://odditiesandcuriositiesexpo.com) and [haunted houses](https://dystopia.dk/haunted-house/).
+Though there is no formal definition, morbid curiosity is typically described as an interest in or curiosity about unpleasant things, especially death. The commercial success of horror films, popularity of true crime television shows, and prevalence of violence in the news implies that the average person possesses some degree of morbid curiosity. Likewise, the presence of death-related phenomena in literature and art and the historical attraction of public executions and gladiatorial fights suggests that morbid curiosity is an old and cross-cultural phenomenon. Despite the ubiquity of morbid material in entertainment, research on morbid curiosity is largely absent from the psychological literature. Moreover, no well-validated scale exists to measure individual differences in morbid curiosity. In this research project, I am investigating the psychological nature of morbid curiosity. This includes the development and validation of the Morbid Curiosity Scale (MCS), evaluating its ability to predict behavioral outcomes, and assessing its relationship with personality. 
 
 <br/><br/>
 
@@ -51,7 +51,7 @@ If you want to see how morbidly curious you are, [click here](https://ssd.az1.qu
 
 ### Relevant manuscripts
 
-[The Psychology of Morbid Curiosity](https://psyarxiv.com/xug34/).
+[The Psychology of Morbid Curiosity: Development and Initial Validation of the Morbid Curiosity Scale](https://psyarxiv.com/xug34/).
 
 [Pandemic Practice: Horror Fans and Morbidly Curious Individuals Are More Psychologically Resilient During the COVID-19 Pandemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7492010/)
 
