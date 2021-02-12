@@ -41,11 +41,11 @@ For a more in-depth discussion of my work on morbid curiosity, check out [my pro
 
 <br/><br/>
 
-### Want to try out the Morbid Curiosity Scale?
-
+### Interested in using the Morbid Curiosity Scale?
 [Click here](https://coltanscrivner.com/files/Morbid_Curiosity_Scale_instructions.pdf") to download the Morbid Curiosity Scale and see how to use it. Please cite the [Psychology of Morbid Curiosity paper](https://psyarxiv.com/xug34/) if you use the scale.
 
-If you want to see how morbidly curious you are, [click here](https://ssd.az1.qualtrics.com/jfe/form/SV_9GLAOrmsjMfthg9) to take the scale!
+### How morbidly curious are you?
+If you want to see how morbidly curious you are, [click here](https://ssd.az1.qualtrics.com/jfe/form/SV_9GLAOrmsjMfthg9) to take the Morbid Curiosity Scale!
 
 <br/><br/>
 
