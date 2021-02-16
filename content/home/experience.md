@@ -67,7 +67,17 @@ date_format = "Jan 2006"
   location = "Aarhus University, Denmark"
   date_start = "2017-10-01"
   date_end = "2020-11-01"
-  description = """Designed and conducted a field experiment at a haunted house attraction (Fall 2017 and Fall 2020."""
+  description = """Designed and conducted field experiments at a haunted house attraction (Autumn 2017 and Autumn 2020)."""
+
+
+[[experience]]
+  title = "Research Consultant"
+  company = "Institute for Cognitive and Evolutionary Anthropology"
+  company_url = "https://www.cssc.ox.ac.uk/religion-and-morality"
+  location = "Oxford University"
+  date_start = "2021-2-10"
+  date_end = "2021-06-10"
+  description = """Designed and analyzed studies on intuitions about rituals in response to threat."""
 
 
 [[experience]]
