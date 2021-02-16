@@ -75,7 +75,7 @@ date_format = "Jan 2006"
   company = "Institute for Cognitive and Evolutionary Anthropology"
   company_url = "https://www.cssc.ox.ac.uk/religion-and-morality"
   location = "Oxford University"
-  date_start = "2021-2-10"
+  date_start = "2021-02-10"
   date_end = "2021-06-10"
   description = """Designed and analyzed studies on intuitions about rituals in response to threat."""
 
