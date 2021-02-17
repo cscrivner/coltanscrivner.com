@@ -55,6 +55,8 @@ If you want to see how morbidly curious you are, [click here](https://ssd.az1.qu
 
 [Pandemic Practice: Horror Fans and Morbidly Curious Individuals Are More Psychologically Resilient During the COVID-19 Pandemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7492010/)
 
+[Scaring Away Anxiety: Therapeutic Avenues for Horror Fiction to Enhance Treatment for Anxiety Symptoms](https://psyarxiv.com/7uh6f/)
+
 [An Infectious Curiosity: Morbid Curiosity and Media Preferences During a Pandemic](https://esiculture.com/an-infectious-curiosity-morbid-curiosity-and-media-preferences-during-a-pandemic)
 
 
