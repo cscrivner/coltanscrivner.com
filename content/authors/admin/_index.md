@@ -37,9 +37,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=KW0qAtQAAAAJ&hl=en
-- icon: CV
+- icon: pen-fancy
   icon_pack: ai
-  link: files/Scrivner_Curriculum_Vitae.pdf
+  link: https://www.psychologytoday.com/us/blog/morbid-minds
 superuser: true
 user_groups:
 - Researchers
