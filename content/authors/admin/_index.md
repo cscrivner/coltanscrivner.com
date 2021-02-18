@@ -39,7 +39,7 @@ social:
   link: https://scholar.google.com/citations?user=KW0qAtQAAAAJ&hl=en
 - icon: CV
   icon_pack: ai
-  link: https://coltanscrivner.com/files/Scrivner_Curriculum_Vitae.pdf
+  link: files/Scrivner_Curriculum_Vitae.pdf
 superuser: true
 user_groups:
 - Researchers
