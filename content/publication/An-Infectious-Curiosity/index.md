@@ -2,7 +2,7 @@
 abstract:
 authors:
 - admin
-date: "2020-04-06T00:00:00Z"
+date: "2021-01-05T00:00:00Z"
 doi:
 featured: true
 image:
@@ -14,7 +14,7 @@ publication: "Evolutionary Studies in Imaginative Culture"
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020"
+publishDate: "2021"
 slides:
 summary: Why did horror movies and pandemic films surge in popularity during the COVID19 outbreak? It may have to do with morbid curiostity.
 tags:

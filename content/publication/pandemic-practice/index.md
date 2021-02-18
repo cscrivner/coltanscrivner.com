@@ -5,7 +5,7 @@ authors:
 - John A. Johnson
 - Jens Kjeldgaard-Christiansen
 - Mathias Clasen
-date: "2020-09-06T00:00:00Z"
+date: "2021-01-06T00:00:00Z"
 doi:
 featured: true
 image:
@@ -17,7 +17,7 @@ publication: "Personality and Individual Differences"
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020"
+publishDate: "2021"
 slides:
 summary: Horror fans seem to be coping better with the stress of the pandemic.
 tags:
