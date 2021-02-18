@@ -68,7 +68,7 @@ contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Find me on Twitter", link = "https://twitter.com/morbidpsych"},
   {icon = "facebook", icon_pack = "fab", name = "Find me on facebook", link = "https://www.facebook.com/Coltan1123"},
   {icon = "google-scholar", icon_pack = "ai", name = "Google Scholar", link = "https://scholar.google.com/citations?user=KW0qAtQAAAAJ&hl=en"},
-  # {icon = "comments", icon_pack = "fas", name = "Leave a comment", link = "https://discourse.gohugo.io"},
+  {icon = "pen-fancy", icon_pack = "fas", name = "Psychology Today blog", link = "https://www.psychologytoday.com/us/blog/morbid-minds"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
