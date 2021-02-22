@@ -20,7 +20,7 @@ height = ""
 
 [[item]]
   title = "What is Morbid Curiosity?"
-  content = "Psychology Today"
+  content = "Newest Post for my Psychology Today Blog"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -32,7 +32,7 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Click here to read the story"
+  cta_label = "Read it here"
   cta_url = "https://www.psychologytoday.com/us/blog/morbid-minds/202102/what-is-morbid-curiosity"
   cta_icon_pack = "fas"
   cta_icon = ""
@@ -55,7 +55,7 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Click here to read the story"
+  cta_label = "Read it here"
   cta_url = "https://nautil.us/issue/95/escape/why-horror-films-are-more-popular-than-ever"
   cta_icon_pack = "fas"
   cta_icon = ""
@@ -77,7 +77,7 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Click here to read the story"
+  cta_label = "Read it here"
   cta_url = "https://www.chicagotribune.com/entertainment/ct-ent-morbid-curiosity-research-uchicago-20201014-l6br33nmrvffzmcpyndqbjfhqu-story.html"
   cta_icon_pack = "fas"
   cta_icon = ""
