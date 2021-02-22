@@ -18,6 +18,28 @@ height = ""
 
 
 
+[[item]]
+  title = "What is Morbid Curiosity?"
+  content = "Psychology Today"
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "headers/PT1.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Click here to read the story"
+  cta_url = "https://www.psychologytoday.com/us/blog/morbid-minds/202102/what-is-morbid-curiosity"
+  cta_icon_pack = "fas"
+  cta_icon = ""
+
+
+
+
 
 [[item]]
   title = "Why Horror Films Are More Popular Than Ever"
@@ -62,26 +84,6 @@ height = ""
   
 
 
-
-
-[[item]]
-  title = "Horror Fans Have More Fun During a Pandemic"
-  content = "Nautilus"
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/nautilus.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Click here to read the story"
-  cta_url = "http://nautil.us/issue/87/risk/horror-fans-have-more-fun-during-a-pandemic"
-  cta_icon_pack = "fas"
-  cta_icon = ""
 
 
 
