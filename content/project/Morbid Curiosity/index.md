@@ -30,7 +30,8 @@ Though there is no formal definition, morbid curiosity is typically described as
 
 <br/><br/>
 
-
+### Psychology Today Blog
+Be sure to check out my Psychology Today blog, [Morbid Minds](https://www.psychologytoday.com/us/blog/morbid-minds), for posts about the psychology of morbid curiosity, horror, and all things spooky. [This first post](https://www.psychologytoday.com/us/blog/morbid-minds/202102/what-is-morbid-curiosity) will give you an introduction to morbid curiosity.
 
 ### Select media coverage
 
