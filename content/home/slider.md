@@ -20,7 +20,7 @@ height = ""
 
 [[item]]
   title = "What is Morbid Curiosity?"
-  content = "Newest Post for my Psychology Today Blog"
+  content = "My newest Post for Psychology Today"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
