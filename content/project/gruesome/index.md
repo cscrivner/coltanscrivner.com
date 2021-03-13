@@ -43,6 +43,11 @@ You can find a free PDF [here, on PsyArXiv](https://psyarxiv.com/23bqx/)
 
 [![](preprint.jpg)](https://psyarxiv.com/23bqx/)
 
+<br/><br/>
+<br/><br/>
+
+You can also read about this study on my blog at [Psychology Today](https://www.psychologytoday.com/us/blog/morbid-minds/202103/the-psychological-roots-gruesome-violence).
+
 
 
 

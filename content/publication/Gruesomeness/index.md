@@ -29,7 +29,7 @@ url_pdf: "https://psyarxiv.com/23bqx/"
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://psyarxiv.com/23bqx/"
+url_source: "https://onlinelibrary.wiley.com/doi/abs/10.1002/ab.21907"
 url_video: ""
 ---
 
