@@ -81,12 +81,12 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "UX Intern"
+  title = "UX Researcher, Mental Health Team"
   company = "Facebook"
   company_url = "http://interactingminds.au.dk"
   location = "San Francisco, California"
-  date_start = "2021-06-21"
-  date_end = "2021-09-10"
-  description = """User Experience Graduate Intern at Facebook."""
+  date_start = "2021-06-01"
+  date_end = "2021-08-20"
+  description = """User Experience Research Graduate Intern at Facebook."""
 
 +++
