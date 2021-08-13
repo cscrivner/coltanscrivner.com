@@ -19,7 +19,7 @@ slides:
 summary: Development of the Morbid Curiosity Scale
 tags:
 - Source Themes
-title: The psychology of morbid curiosity: Development and initial validation of the morbid curiosity scale
+title: The psychology of morbid curiosity - Development and initial validation of the morbid curiosity scale
 url_code: "https://osf.io/gv52a/"
 url_dataset: "https://osf.io/gv52a/"
 url_pdf: "https://drive.google.com/file/d/1oo6xS_07q0QaDIpz8IZTbFiwz2F9n7hF/view?usp=sharing"
