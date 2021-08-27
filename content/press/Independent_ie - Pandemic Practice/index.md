@@ -11,7 +11,6 @@ tags:
 - horror
 - news
 - press
-- featured
 title: Movie magic - Why horror film fans are coping better with the pandemic
 weight: 1
 url_code: ""
