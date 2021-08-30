@@ -42,11 +42,14 @@ user_groups:
 - Researchers
 - Visitors
 ---
-### What I do
-What is it about monsters, murderers, and the macabre that draws us in and inspires curiosity? More importantly, how does this morbid curiosity affect us in our daily life? These are the core questions that motivate much of my research, whether that research involves tracking participants' eye movements as they inspect a cabinet of morbid items or measuring their heart rate as they fight their way through a haunted house. Through play and fiction, humans can indulge in low-cost dangerous scenarios that generate curiosity and motivate information gathering. 
+
 
 ### Who I am
-I'm currently a PhD Candidate in the Department of Comparative Human Development at The University of Chicago and a Fellow at the Institute for Mind and Biology in the Behavioral Biology Lab. Broadly, I am interested in the functions of emotions and the social, cognitive, and biological factors that influence social behavior. Most of my current research centers around how people perceive and react to potentially dangerous individuals and situations. In partcular, I am interested in how and why people sometimes find enjoyment - and can perhaps learn something - from fictionally dangerous scenarios. From this perspective, I've been pioneering the psychological study of morbid curiosity. 
+I'm currently a PhD Candidate in the Department of Comparative Human Development at The University of Chicago and a Fellow at the Institute for Mind and Biology in the Behavioral Biology Lab.
+
+
+### What I do
+What is it about monsters, murderers, and the macabre that draws us in and inspires curiosity? More importantly, how does this morbid curiosity affect us in our daily life? These are the core questions that motivate much of my research, whether that research involves tracking participants' eye movements as they inspect a cabinet of morbid items or measuring their heart rate as they fight their way through a haunted house. Much of my current research looks at how and why people sometimes find enjoyment - and can perhaps learn something - from fictionally dangerous scenarios. From this perspective, I've been pioneering the psychological study of morbid curiosity. More broadly, however, I am interested in the functions of emotions and the social, cognitive, and biological factors that influence social behavior.
 
 
 ### If you want to know more about my research
