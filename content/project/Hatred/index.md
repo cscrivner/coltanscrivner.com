@@ -28,7 +28,7 @@ Hatred has existed across cultures and throughout human history. It is often poi
 
 We are currently working on a theoretical framework and collecting qualitative data on experiences of hatred and the dispositions people have towards those who the hate. You can find our first theoretical paper [here](https://psyarxiv.com/kxdvu/).
 
-This project is in collaboration with [Aaron Sell](), [Anthony Lopez](), and [Mitchell Landers]().
+This project is in collaboration with [Aaron Sell](https://scholar.google.com/citations?user=9oisecIAAAAJ&hl=en), [Anthony Lopez](https://labs.wsu.edu/evolutionary-politics/), and [Mitchell Landers](https://psychology.uchicago.edu/directory/mitchell-landers).
 
 <br/><br/>
 
