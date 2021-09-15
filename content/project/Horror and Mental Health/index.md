@@ -48,6 +48,8 @@ The first part of this project has focused on the role of horror in anxiety. Des
 [Scaring Away Anxiety: Therapeutic Avenues for Horror Fiction to Enhance Treatment for Anxiety Symptoms](https://psyarxiv.com/7uh6f/).
 
 
+[The Psychological Benefits of Scary Play in Three Types of Horror Fans](https://psyarxiv.com/sdxe6/).
+
 [Pandemic Practice: Horror Fans and Morbidly Curious Individuals Are More Psychologically Resilient During the COVID-19 Pandemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7492010/)
 
 
