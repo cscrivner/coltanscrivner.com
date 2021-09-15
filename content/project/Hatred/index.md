@@ -8,9 +8,9 @@ image:
   focal_point: Smart
 summary: What is the function of hatred?
 tags:
-- curiosity
-- death
-- violence
+- emotion
+- hatred
+- anger
 title: The Cognitive Architechture of Hatred
 weight: 2
 url_code: ""
