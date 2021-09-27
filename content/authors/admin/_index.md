@@ -57,5 +57,5 @@ My research on morbid curiosity and the psychology of horror has been covered by
 
 I occasionally write about the psychology of morbid curiosity, horror, and all things spooky at [Morbid Minds](https://www.psychologytoday.com/us/blog/morbid-minds), my Psychology Today Blog. 
 
-I'm also writing a tradebook on morbid curiosity that will be published by Penguin Random House in 2023. Stay tuned for updates!
+I'm also writing a book on morbid curiosity that will be published by Penguin Random House in 2023. Stay tuned for updates!
  
